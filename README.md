@@ -1,6 +1,6 @@
 ## Massao
 
-- Sou um desenvolvedor Fullstack, com ênfase no desenvolvimento de aplicações web com Tailwind.
+- Sou um desenvolvedor Fullstack, com ênfase no desenvolvimento de aplicações web com Tailwind e Fastify.
 ---
 
 <div align="center">
@@ -16,8 +16,3 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
 
----
-
-<div>
-  Dê uma olhada no meu <a href="curriculo_nicolas.pdf">currículo</a> também!
-</div>
