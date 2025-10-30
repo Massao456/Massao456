@@ -28,8 +28,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/206354217?v=4"  />
-
 ###
 
 <div align="center">
